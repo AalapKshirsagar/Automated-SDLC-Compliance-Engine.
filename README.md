@@ -256,6 +256,3 @@ Tests cover: regex match accuracy, false-positive prevention, DB insert/immutabi
 
 ---
 
-## License
-
-MIT — see [LICENSE](LICENSE).
